@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.65.28121.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.396%0D%0AHow%20many%20main%20components%20are%20there%20when%20it%20comes%20to%20social%20emotioanl%20learning?%0D%0A%0D%0A"}')
